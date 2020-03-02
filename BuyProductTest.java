@@ -83,21 +83,10 @@ public class BuyProductTest {
         //assert the text
         String confirmMessage= driver.findElement(By.xpath("//*[@id=\"center_column\"]/div/p/strong")).getText();
         Thread.sleep(2000);
-      
-       /* Assert.assertEquals(confirmMessage, "Your order on My Store is complete.");
-        if(true) {
-        System.out.println(confirmMessage);
-       }*/
-        if(confirmMessage.matches("Your order on My Store is complete."))
-        {
-       System.out.println(confirmMessage);
-        }
-        driver.close();
-         
 		
-	}
-
-	
-	
-	
+        if(confirmMessage.matches("Your order on My Store is complete.")) {
+       		System.out.println(confirmMessage);
+        }
+        driver.close();	
+	}	
 }
