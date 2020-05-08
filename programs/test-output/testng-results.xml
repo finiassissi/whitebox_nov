@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-06T05:39:37Z" name="Default suite" finished-at="2020-05-06T05:39:37Z" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2020-05-06T05:39:37Z" name="Default test" finished-at="2020-05-06T05:39:37Z" duration-ms="41">
+      <class name="loop.test.Swap_numbers_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:loop.test.Swap_numbers_test@1af2d44a]" started-at="2020-05-06T05:39:37Z" name="setup" finished-at="2020-05-06T05:39:37Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="swap_with_postivenumbers()[pri:0, instance:loop.test.Swap_numbers_test@1af2d44a]" started-at="2020-05-06T05:39:37Z" name="swap_with_postivenumbers" finished-at="2020-05-06T05:39:37Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swap_with_postivenumbers -->
+      </class> <!-- loop.test.Swap_numbers_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
