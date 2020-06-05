@@ -1,0 +1,171 @@
+[INFO ] 2020-06-03 12:30:50.576 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 12:30:50.586 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 12:30:50.587 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 12:30:50.587 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 12:30:50.587 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 12:30:50.587 [main] ReadExcelData -  Taking Test Data from file Suresh
+[TRACE] 2020-06-03 13:10:59.313 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-03 13:10:59.327 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-03 13:10:59.332 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-03 13:11:01.159 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:11:01.360 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:11:01.892 [main] LoginTest - Successful
+[INFO ] 2020-06-03 13:13:00.041 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:13:00.167 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:13:11.078 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:13:11.221 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:13:20.983 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:13:21.112 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:13:30.535 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:13:30.696 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:14:12.043 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:14:12.241 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:14:21.600 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:14:21.784 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:15:16.062 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 13:15:16.064 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 13:15:16.064 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 13:15:16.065 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 13:15:16.065 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 13:15:16.066 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 13:15:24.265 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:15:24.391 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:16:11.831 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:16:11.967 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:16:58.138 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:16:58.312 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:17:33.067 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:17:33.205 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:17:42.530 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:17:42.668 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 13:17:43.202 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[TRACE] 2020-06-03 13:19:13.402 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-03 13:19:13.406 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-03 13:19:13.407 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-03 13:19:15.153 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:19:15.267 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:19:15.854 [main] LoginTest - Successful
+[INFO ] 2020-06-03 13:19:43.644 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:19:43.790 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 13:19:58.616 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 13:19:58.870 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 14:43:36.469 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 14:43:36.472 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 14:43:36.472 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 14:43:36.472 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 14:43:36.473 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 14:43:36.473 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 14:43:45.977 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 14:43:46.099 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 15:12:54.928 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 15:12:54.931 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 15:12:54.931 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 15:12:54.931 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 15:12:54.932 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 15:12:54.932 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 15:13:05.982 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 15:13:06.149 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 15:13:45.883 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 15:13:46.226 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 16:07:06.128 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 16:07:06.350 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 16:07:07.348 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 16:07:50.763 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 16:07:50.763 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 16:07:50.763 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 16:07:50.764 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 16:07:50.764 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 16:07:50.764 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 16:13:48.342 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 16:13:48.593 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 16:13:49.383 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 16:14:09.767 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 16:14:09.768 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 16:14:09.768 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 16:14:09.768 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 16:14:09.769 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 16:14:09.769 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 16:14:13.444 [main] ContactsTest - contacts added
+[INFO ] 2020-06-03 16:14:19.145 [main] ContactsTest - contacts added
+[INFO ] 2020-06-03 16:14:24.905 [main] ContactsTest - contacts added
+[INFO ] 2020-06-03 23:31:33.852 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:31:34.036 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:31:35.235 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:31:36.092 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:31:36.093 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:31:36.093 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:31:36.093 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:31:36.093 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:31:36.094 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 23:32:56.813 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:32:56.937 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:33:06.853 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:33:06.979 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:33:07.720 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:33:09.309 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:33:09.309 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:33:09.310 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:33:09.310 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:33:09.310 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:33:09.310 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 23:33:17.455 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:33:17.588 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:34:06.221 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:34:06.361 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:34:19.867 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:34:19.992 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:38:31.897 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:38:32.018 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:38:33.087 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:44:09.058 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:44:09.210 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:44:10.272 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:44:11.021 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:44:11.021 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:44:11.021 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:44:11.022 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:44:11.022 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:44:11.022 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 23:46:03.411 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:46:03.554 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:46:13.213 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:46:13.328 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:46:14.035 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:47:17.689 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:47:17.690 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:47:17.690 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:47:17.690 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:47:17.690 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:47:17.691 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 23:47:25.610 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:47:25.757 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:47:49.506 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:47:49.624 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:48:01.728 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:48:01.871 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:50:25.610 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:50:25.745 [main] LoginPage - Login  done
+[INFO ] 2020-06-03 23:50:34.821 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:50:34.958 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:50:35.500 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:51:00.034 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:51:00.034 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:51:00.034 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:51:00.035 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:51:00.035 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:51:00.035 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 23:51:53.901 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:51:53.901 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:51:53.901 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:51:53.901 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:51:53.902 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:51:53.902 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-03 23:54:38.338 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-03 23:54:38.521 [main] LoginPage - Login  done
+[TRACE] 2020-06-03 23:54:39.533 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-03 23:54:40.300 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-03 23:54:40.300 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-03 23:54:40.300 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-03 23:54:40.300 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-03 23:54:40.301 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-03 23:54:40.301 [main] ReadExcelData -  Taking Test Data from file Suresh

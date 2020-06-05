@@ -1,0 +1,84 @@
+[TRACE] 2020-06-01 02:57:26.771 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-01 02:57:27.670 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-01 02:57:27.670 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-01 02:57:27.670 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-01 02:57:27.670 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-01 02:57:27.670 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-01 02:57:27.671 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-01 02:57:34.384 [main] ContactsTest - contacts added
+[INFO ] 2020-06-01 02:57:43.071 [main] ContactsTest - contacts added
+[INFO ] 2020-06-01 02:57:51.814 [main] ContactsTest - contacts added
+[TRACE] 2020-06-01 02:58:06.711 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 02:58:06.717 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 02:58:19.454 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 02:58:24.334 [main] LoginTest - Successful
+[TRACE] 2020-06-01 03:03:00.166 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 03:03:00.177 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 03:03:12.960 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 03:03:17.867 [main] LoginTest - Successful
+[TRACE] 2020-06-01 12:55:16.685 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 12:55:16.695 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 12:55:27.529 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 12:55:30.894 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 12:55:31.473 [main] LoginTest - Successful
+[TRACE] 2020-06-01 12:59:05.476 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 12:59:05.491 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 12:59:16.157 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 12:59:18.199 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 12:59:18.777 [main] LoginTest - Successful
+[TRACE] 2020-06-01 13:03:23.553 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 13:03:23.567 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 13:03:34.369 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 13:03:36.317 [main] LoginPage - Email: %s Password: %s
+[INFO ] 2020-06-01 13:03:36.558 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 13:03:37.216 [main] LoginTest - Successful
+[TRACE] 2020-06-01 13:08:18.600 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 13:08:18.632 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 13:08:29.813 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 13:08:32.572 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 13:08:32.927 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 13:08:33.474 [main] LoginTest - Successful
+[TRACE] 2020-06-01 16:03:53.345 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 16:03:53.385 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 16:04:09.331 [main] LoginTest - ----------Testcase Tc_Login002------------
+[TRACE] 2020-06-01 16:05:56.787 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 16:05:56.804 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 16:06:11.978 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 16:06:23.144 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 16:06:23.411 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 16:06:25.268 [main] LoginTest - Successful
+[INFO ] 2020-06-01 16:09:40.978 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 16:09:41.204 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 16:12:50.688 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 16:12:51.297 [main] LoginPage - Login  done
+[TRACE] 2020-06-01 16:12:52.974 [main] ContactsTest - tracing info----------Tc_Contacts002-----------
+[INFO ] 2020-06-01 16:12:55.177 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-01 16:12:55.177 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-01 16:12:55.178 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-01 16:12:55.178 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-01 16:12:55.179 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-01 16:12:55.179 [main] ReadExcelData -  Taking Test Data from file Suresh
+[INFO ] 2020-06-01 16:13:02.545 [main] ContactsTest - contacts added
+[INFO ] 2020-06-01 16:13:11.553 [main] ContactsTest - contacts added
+[INFO ] 2020-06-01 16:13:20.767 [main] ContactsTest - contacts added
+[INFO ] 2020-06-01 16:14:44.461 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 16:14:44.686 [main] LoginPage - Login  done
+[TRACE] 2020-06-01 16:20:26.590 [main] LoginTest - ----------Testcase Tc_Login001------------
+[INFO ] 2020-06-01 16:20:26.609 [main] LoginTest -  Application URl validated
+[TRACE] 2020-06-01 16:20:42.650 [main] LoginTest - ----------Testcase Tc_Login002------------
+[INFO ] 2020-06-01 16:20:53.567 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 16:20:53.818 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 16:20:55.154 [main] LoginTest - Successful
+[INFO ] 2020-06-01 17:22:40.602 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 17:22:40.746 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 17:22:53.857 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 17:22:54.010 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 17:23:11.243 [main] LoginPage - Email:  finiassissi1@gmail.com Password:  q1w2e3r4T
+[INFO ] 2020-06-01 17:23:11.379 [main] LoginPage - Login  done
+[INFO ] 2020-06-01 17:23:12.688 [main] ReadExcelData -  Taking Test Data from file fini
+[INFO ] 2020-06-01 17:23:12.689 [main] ReadExcelData -  Taking Test Data from file Jesto
+[INFO ] 2020-06-01 17:23:12.689 [main] ReadExcelData -  Taking Test Data from file sini
+[INFO ] 2020-06-01 17:23:12.689 [main] ReadExcelData -  Taking Test Data from file sijo
+[INFO ] 2020-06-01 17:23:12.690 [main] ReadExcelData -  Taking Test Data from file Bini
+[INFO ] 2020-06-01 17:23:12.690 [main] ReadExcelData -  Taking Test Data from file Suresh
+[TRACE] 2020-06-01 17:29:17.448 [main] ContactsTest - tracing info----------Tc_Contacts002-----------

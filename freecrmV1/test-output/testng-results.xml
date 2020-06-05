@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-04T17:56:09 PDT" name="Suite" finished-at="2020-06-04T17:58:38 PDT" duration-ms="149572">
+    <groups>
+    </groups>
+    <test started-at="2020-06-04T17:56:09 PDT" name="Test" finished-at="2020-06-04T17:58:38 PDT" duration-ms="149572">
+      <class name="com.freecrm.testcases.CompaniesTest">
+        <test-method is-config="true" signature="setup_cm()[pri:0, instance:com.freecrm.testcases.CompaniesTest@7f132176]" started-at="2020-06-04T17:57:37 PDT" name="setup_cm" finished-at="2020-06-04T17:57:50 PDT" duration-ms="13180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_cm -->
+        <test-method signature="cpValidateUrl()[pri:0, instance:com.freecrm.testcases.CompaniesTest@7f132176]" started-at="2020-06-04T17:57:50 PDT" name="cpValidateUrl" finished-at="2020-06-04T17:57:50 PDT" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cpValidateUrl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.freecrm.testcases.CompaniesTest@7f132176]" started-at="2020-06-04T17:57:50 PDT" name="teardown" finished-at="2020-06-04T17:57:51 PDT" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup_cm()[pri:0, instance:com.freecrm.testcases.CompaniesTest@7f132176]" started-at="2020-06-04T17:57:51 PDT" name="setup_cm" finished-at="2020-06-04T17:58:01 PDT" duration-ms="10180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_cm -->
+        <test-method signature="cpAddNewComapny()[pri:1, instance:com.freecrm.testcases.CompaniesTest@7f132176]" started-at="2020-06-04T17:58:01 PDT" name="cpAddNewComapny" finished-at="2020-06-04T17:58:38 PDT" duration-ms="36397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cpAddNewComapny -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.freecrm.testcases.CompaniesTest@7f132176]" started-at="2020-06-04T17:58:38 PDT" name="teardown" finished-at="2020-06-04T17:58:38 PDT" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.freecrm.testcases.CompaniesTest -->
+      <class name="com.freecrm.testcases.ContactsTest">
+        <test-method is-config="true" signature="setup_c()[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:56:50 PDT" name="setup_c" finished-at="2020-06-04T17:57:00 PDT" duration-ms="9492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_c -->
+        <test-method signature="cpTitleValidation()[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:00 PDT" name="cpTitleValidation" finished-at="2020-06-04T17:57:00 PDT" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cpTitleValidation -->
+        <test-method signature="cpVerifyingContacts()[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:00 PDT" name="cpVerifyingContacts" finished-at="2020-06-04T17:57:01 PDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cpVerifyingContacts -->
+        <test-method signature="cplLoginWithMultipleValues(java.lang.String, java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:01 PDT" name="cplLoginWithMultipleValues" data-provider="data1" finished-at="2020-06-04T17:57:07 PDT" duration-ms="6364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[finijesto@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hhhhaaja]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cplLoginWithMultipleValues -->
+        <test-method signature="cplLoginWithMultipleValues(java.lang.String, java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:07 PDT" name="cplLoginWithMultipleValues" data-provider="data1" finished-at="2020-06-04T17:57:13 PDT" duration-ms="6057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[issajesto@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qrrqr]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cplLoginWithMultipleValues -->
+        <test-method signature="cplLoginWithMultipleValues(java.lang.String, java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:13 PDT" name="cplLoginWithMultipleValues" data-provider="data1" finished-at="2020-06-04T17:57:20 PDT" duration-ms="6141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[finijesto@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ghjhgjhg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cplLoginWithMultipleValues -->
+        <test-method signature="cplLoginWithMultipleValues(java.lang.String, java.lang.String)[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:20 PDT" name="cplLoginWithMultipleValues" data-provider="data1" finished-at="2020-06-04T17:57:25 PDT" duration-ms="5787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asssdad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dfsdgds]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cplLoginWithMultipleValues -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.ContactsTest@ee86bcb]" started-at="2020-06-04T17:57:25 PDT" name="tearDown" finished-at="2020-06-04T17:57:26 PDT" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.testcases.ContactsTest -->
+      <class name="com.freecrm.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.freecrm.testcases.LoginTest@177bea38]" started-at="2020-06-04T17:57:26 PDT" name="setup" finished-at="2020-06-04T17:57:36 PDT" duration-ms="10158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="lpValidateTitle()[pri:0, instance:com.freecrm.testcases.LoginTest@177bea38]" started-at="2020-06-04T17:57:36 PDT" name="lpValidateTitle" finished-at="2020-06-04T17:57:36 PDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lpValidateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.LoginTest@177bea38]" started-at="2020-06-04T17:57:36 PDT" name="tearDown" finished-at="2020-06-04T17:57:37 PDT" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.testcases.LoginTest -->
+      <class name="com.freecrm.testcases.HomeTest">
+        <test-method is-config="true" signature="setup_h()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:09 PDT" name="setup_h" finished-at="2020-06-04T17:56:19 PDT" duration-ms="10387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_h -->
+        <test-method signature="hpValiadteDisplayCall()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:19 PDT" name="hpValiadteDisplayCall" finished-at="2020-06-04T17:56:19 PDT" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpValiadteDisplayCall -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:19 PDT" name="tearDown" finished-at="2020-06-04T17:56:20 PDT" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup_h()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:20 PDT" name="setup_h" finished-at="2020-06-04T17:56:31 PDT" duration-ms="10533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_h -->
+        <test-method signature="hpValiadteDisplayCompanies()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:31 PDT" name="hpValiadteDisplayCompanies" finished-at="2020-06-04T17:56:31 PDT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpValiadteDisplayCompanies -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:31 PDT" name="tearDown" finished-at="2020-06-04T17:56:31 PDT" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup_h()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:31 PDT" name="setup_h" finished-at="2020-06-04T17:56:40 PDT" duration-ms="9181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_h -->
+        <test-method signature="hpValiadteDisplayDeals()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:40 PDT" name="hpValiadteDisplayDeals" finished-at="2020-06-04T17:56:40 PDT" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpValiadteDisplayDeals -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:40 PDT" name="tearDown" finished-at="2020-06-04T17:56:41 PDT" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup_h()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:41 PDT" name="setup_h" finished-at="2020-06-04T17:56:50 PDT" duration-ms="8564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_h -->
+        <test-method signature="hpValidateTitle()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:50 PDT" name="hpValidateTitle" finished-at="2020-06-04T17:56:50 PDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpValidateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.freecrm.testcases.HomeTest@1921ad94]" started-at="2020-06-04T17:56:50 PDT" name="tearDown" finished-at="2020-06-04T17:56:50 PDT" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.freecrm.testcases.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
