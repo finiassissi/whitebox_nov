@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-19T22:16:53 PDT" name="Default suite" finished-at="2020-06-19T22:17:04 PDT" duration-ms="11451">
+    <groups>
+    </groups>
+    <test started-at="2020-06-19T22:16:53 PDT" name="Default test" finished-at="2020-06-19T22:17:04 PDT" duration-ms="11451">
+      <class name="appiumtest.Calculator">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:appiumtest.Calculator@47542153]" started-at="2020-06-19T22:16:53 PDT" name="setUp" finished-at="2020-06-19T22:17:00 PDT" duration-ms="7152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCal()[pri:0, instance:appiumtest.Calculator@47542153]" started-at="2020-06-19T22:17:00 PDT" name="testCal" finished-at="2020-06-19T22:17:04 PDT" duration-ms="3953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCal -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:appiumtest.Calculator@47542153]" started-at="2020-06-19T22:17:04 PDT" name="teardown" finished-at="2020-06-19T22:17:04 PDT" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- appiumtest.Calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
