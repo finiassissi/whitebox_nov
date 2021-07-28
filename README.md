@@ -1,2 +1,2 @@
-# whitebox_nov
+# Automation
 Whitebox test project for Nov batch
